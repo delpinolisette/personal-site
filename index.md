@@ -2,7 +2,9 @@
 <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+
 # Hello! My name is Lisette 
+
 and I love Math $$\cup$$ Computer Science $$\cup$$ Physics (and a ton of other subjects).
 
 <!-- I am currently working on my Master of Science in Computer Science from Georgia Tech while working full-time as a research associate and analytics manager for a research and consulting firm. In 2021, I graduated UPenn in with a degree in Math, where I did independent reading and research on Mathematical Cryptography. -->
